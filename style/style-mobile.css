@@ -1,0 +1,48 @@
+@media screen and (max-width: 600px){ .icone, #linkedin{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: 2px 2px;
+    }}
+    @media screen and (max-width: 600px){#linkedin{
+      left: 25%;
+      bottom: 37%;
+    }}
+    @media screen and (max-width: 600px){#instagram{ 
+      left: 40%;
+      bottom: 37%;
+    }}
+    @media screen and (max-width: 600px){#github{ 
+      left: 55%;
+      bottom: 37%;
+    }}
+    @media screen and (max-width: 600px){#botao1{
+      width: 28%;
+      top: 71%;
+      left: 11%;
+    }}
+    @media screen and (max-width: 600px){#botao2{
+      width: 28%;
+      left: 11%;
+      top: 77%;
+    }}
+    @media screen and (max-width: 600px){#botao3{
+      top: 71%;
+      width: 20%;
+      right: 20%;
+    }}
+    @media screen and (max-width: 600px){#botao4{
+      top: 77%;
+      width: 20%;
+      right: 20%;
+    }}
+    @media screen and (max-width: 600px){#botao5{
+      top: 77%;
+      width: 20%;
+      left: 82%;
+    }}
+    @media screen and (max-width: 600px){.titulo-lista,li{
+      text-align: center;
+      font-size: 20px;
+
+    }}
