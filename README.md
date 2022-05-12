@@ -29,13 +29,16 @@ Desenvolver um aplicação que criptografa textos.
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência
--Extras (Feitos Por Fora do Desafio)
+ 
+## Extras (Feitos Por Fora do Desafio)
+
+- Um Botão que cola automaticamente o texto copiado
 
 - Um Botão que limpa os campos
 
 - Um efeito de fadeout do Hisoka 😄
 
-- Um botão que copie o texto criptografado/descriptografado para a área de transferência
+- Uma página adicional que explica as regras de criptografia.
 
 <div align='center'>
  💬 Me Encontre por aí: <br/><br/>
